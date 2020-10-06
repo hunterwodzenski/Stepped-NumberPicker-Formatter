@@ -1,6 +1,10 @@
 # Stepped-NumberPicker-Formatter
 Create a stepped Android Studio NumberPicker with a NumberPicker Formatter
 
+![Screenshot](steppedNP1.JPG)
+![Screenshot](steppedNP5.JPG)
+![Screenshot](steppedNP15.JPG)
+
         //Example number picker where the time is stepped by 1, 5 and 15 minutes over 8 hours
         
         //Stepped Number Picker
@@ -40,7 +44,3 @@ Create a stepped Android Studio NumberPicker with a NumberPicker Formatter
             }
         };
         
-        
-![Screenshot](steppedNP1.JPG)
-![Screenshot](steppedNP5.JPG)
-![Screenshot](steppedNP15.JPG)
