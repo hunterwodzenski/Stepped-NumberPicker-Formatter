@@ -39,3 +39,8 @@ Create a stepped Android Studio NumberPicker with a NumberPicker Formatter
                 return String.format(Locale.getDefault(), "%d:%02d", hr, min);
             }
         };
+        
+        
+![Screenshot](steppedNP1.JPG)
+![Screenshot](steppedNP5.JPG)
+![Screenshot](steppedNP15.JPG)
